@@ -1,7 +1,7 @@
 .data
 
 	a: .word 1, 2, 1, 1, 2	#array
-	n: .word 6			#size
+	n: .word 5			#size
 	c: .word 0			#count
 	x: .word 2			#element to be found	
 .text
